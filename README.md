@@ -1,4 +1,7 @@
 # 💫 Hi 👋, I'm Assya Ouahmi
+
+**A passionate Front-End Developer | React Enthusiast | Building beautiful web experiences from Morocco 🇲🇦**
+
 🔭 I’m currently working on Front-end web projects<br>🌱 I’m currently learning HTML, CSS, JavaScript & React<br>👯 I’m looking to collaborate on Web development projects<br>🤔 I’m looking for help with Improving my coding skills<br>💬 Ask me about Front-end development<br>📫 How to reach me contact.assiaouahmi@gmail.com<br>⚡ Fun fact I love building things for the web
 
 
